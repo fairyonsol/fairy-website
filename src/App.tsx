@@ -22,7 +22,7 @@ function App() {
     setTimeout(() => setCopied(false), 2000);
   };
 
-  const contractAddress = "EXgaZEkfdJMGhaK6uMcC7qnsFodEsdaLii8p442ppump";
+  const contractAddress = "DLaBzzCFuaBgt6pyrtPM1qeU3G7oYX5bnpGFfd69XT3a";
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-night-950 via-night-900 to-night-950 text-white overflow-x-hidden font-sans">
@@ -130,7 +130,7 @@ function App() {
               
               <div className="flex gap-4">
                 <a 
-                  href="https://t.me/yourusername" // replace with your actual Telegram link
+                  href="https://t.me/Fairyonsolana" // replace with your actual Telegram link
                   className="p-4 rounded-full bg-night-800/50 border border-night-700/50 hover:border-blue-400/50 transition-all duration-300 hover:bg-blue-400/10"
                   >
                   <FaTelegramPlane className="w-7 h-7 text-blue-400" />
@@ -267,7 +267,7 @@ function App() {
   variant="secondary"
   className="text-lg px-8 py-4"
   as="a"
-  href="https://pump.fun"
+  href="https://pump.fun/coin/DLaBzzCFuaBgt6pyrtPM1qeU3G7oYX5bnpGFfd69XT3a"
   target="_blank"
   rel="noopener noreferrer"
 >
@@ -320,7 +320,7 @@ function App() {
             </a>
             <div className="flex gap-4">
   <a 
-    href="https://t.me/yourusername" // replace with your actual Telegram link
+    href="https://t.me/Fairyonsolana" // replace with your actual Telegram link
     className="p-4 rounded-full bg-night-800/50 border border-night-700/50 hover:border-blue-400/50 transition-all duration-300 hover:bg-blue-400/10"
   >
     <FaTelegramPlane className="w-7 h-7 text-blue-400" />
